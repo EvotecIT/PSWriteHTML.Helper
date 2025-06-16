@@ -6,7 +6,7 @@
     CompatiblePSEditions = @('Desktop', 'Core')
     Copyright            = '(c) 2011 - 2022 Przemyslaw Klys @ Evotec. All rights reserved.'
     Description          = 'Module that helps preparing release of PSWriteHTML'
-    FunctionsToExport    = @('Get-SimpleFontsList', 'Repair-FontsAwesome', 'Repair-FontsSimple', 'Save-HTMLResource')
+    FunctionsToExport    = @('Repair-FancyTree', 'Get-SimpleFontsList', 'Repair-FontsAwesome', 'Repair-FontsSimple', 'Save-HTMLResource')
     GUID                 = '7b997df6-793a-4168-92a1-ccdfc3941c5d'
     ModuleVersion        = '0.0.1'
     PowerShellVersion    = '5.1'
